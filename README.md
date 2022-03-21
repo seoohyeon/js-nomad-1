@@ -1,2 +1,2 @@
-# js-nomadcoders
- 노마드코더 바닐라js 클론코딩
+# js-nomad-1
+ 노마드코더 바닐라js 클론코딩 - 크롬앱 만들기
